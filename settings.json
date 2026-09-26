@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afkboooooot",
+    "username": "ClownPierce",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BlindFolded222.aternos.me",
     "port": 33438,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
